@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("\nDon't say shit...");
+	printf("\n\nDon't say shit...\n");
 	return 0;
 }
